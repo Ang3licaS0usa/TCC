@@ -1,5 +1,4 @@
 # COLLIER
-![logo](./chorro.jpg)
 ---
 ## 1. Descrição do projeto
 
