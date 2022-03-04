@@ -18,11 +18,13 @@ Essa coleira vai detectar, com o uso do sensor de distância, quando o animal es
 Montaremos tudo na plataforma Tinkercad e após esse processo ser realizado, a construção será iniciada, tornando do nosso projeto possível.  
  Escolhemos um sensor a laser por conta do seu tamanho reduzido, facilitando a junção dele à coleira, e sua sensível e longa capacidade de detecção.
  Os obstáculos que encontramos será o acoplamento das hastes à roupa do animal para o suporte do sensor.
- 
- - **Equipe:** Ana Carolina Soares, Angélica Sousa, Beatriz Gonçalvez, Emily Saraiva, Eduardo Ramalho, Juliana Freita
 
 ---
 
 ## 3. Logo da Equipe
 
 ![chorro](https://user-images.githubusercontent.com/100946334/156784682-98db3330-6be7-4c14-b369-b00742380ab8.png)
+
+---
+
+ - **Equipe:** Ana Carolina Soares, Angélica Sousa, Beatriz Gonçalvez, Emily Saraiva, Eduardo Ramalho, Juliana Freitas
