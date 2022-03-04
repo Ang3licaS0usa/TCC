@@ -1,5 +1,7 @@
 # COLLIER
 ---
+![logo](./Imagem/chorro.png)
+---
 ## 1. Descrição do projeto
 
 Observando o cenário atual de nossa sociedade podemos notar que os animais de estimação estão, cada vez mais, sendo tratados como um verdadeiro membro da família, todos querem proporcionar uma vida boa e confortável para seu animal e ajudá-los nas dificuldades que eles possam vir a ter. 
