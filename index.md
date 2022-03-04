@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# COLLIER
+---
+## 1. Descrição do projeto
 
-You can use the [editor on GitHub](https://github.com/Ang3licaS0usa/TCC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Observando o cenário atual de nossa sociedade podemos notar que os animais de estimação estão, cada vez mais, sendo tratados como um verdadeiro membro da família, todos querem proporcionar uma vida boa e confortável para seu animal e ajudá-los nas dificuldades que eles possam vir a ter. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Diversos aparelhos e medicamentos já foram desenvolvidos para auxiliá-los na em suas necessidades, porém, em alguns casos, não é proporcionada a devida atenção, um desses casos é a falta de auxílio para animais cegos, claro que existem certos cuidados e alguns equipamentos, como as coleiras adaptadas, porém elas não proporcionam grande conforto ao animal. 
 
-### Markdown
+Levanto em consideração essa temática abordada por nosso grupo, decidimos realizar um projeto para suprir essa necessidade de amparo com esses animais e proporcioná-los maior conforto e segurança, com a ideia de construir e programar uma coleira que possui um sensor de distância a laser. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Essa coleira vai detectar, com o uso do sensor de distância, quando o animal estiver prestes a colidir em algo e irá emitir um leve barulho, alertando o animal, que com o tempo ira associar o barulho a essa “colisão”, para que ele consiga desviar e também alertar seu dono.
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## 2. Tecnologias adotadas
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ang3licaS0usa/TCC/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ A tecnologia que irá ser utilizada será um arduino e um sensor de distância a laser, um buzzer e possivelmente algum método de economia de energia.
+Montaremos tudo na plataforma Tinkercad e após esse processo ser realizado, a construção será iniciada, tornando do nosso projeto possível.  
+ Escolhemos um sensor a laser por conta do seu tamanho reduzido, facilitando a junção dele à coleira, e sua sensível e longa capacidade de detecção.
+ Os obstáculos que encontramos será o acoplamento das hastes à roupa do animal para o suporte do sensor.
+ 
+ - **Equipe:** Ana Carolina Soares, Angélica Sousa, Beatriz Gonçalvez, Emily Saraiva, Eduardo Ramalho, Juliana Freitas
