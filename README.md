@@ -1,7 +1,5 @@
 # COLLIER
 ---
-![logo](./Imagem/chorro.png)
----
 ## 1. Descrição do projeto
 
 Observando o cenário atual de nossa sociedade podemos notar que os animais de estimação estão, cada vez mais, sendo tratados como um verdadeiro membro da família, todos querem proporcionar uma vida boa e confortável para seu animal e ajudá-los nas dificuldades que eles possam vir a ter. 
@@ -21,4 +19,10 @@ Montaremos tudo na plataforma Tinkercad e após esse processo ser realizado, a c
  Escolhemos um sensor a laser por conta do seu tamanho reduzido, facilitando a junção dele à coleira, e sua sensível e longa capacidade de detecção.
  Os obstáculos que encontramos será o acoplamento das hastes à roupa do animal para o suporte do sensor.
  
- - **Equipe:** Ana Carolina Soares, Angélica Sousa, Beatriz Gonçalvez, Emily Saraiva, Eduardo Ramalho, Juliana Freitas
+ - **Equipe:** Ana Carolina Soares, Angélica Sousa, Beatriz Gonçalvez, Emily Saraiva, Eduardo Ramalho, Juliana Freita
+
+---
+
+## 3. Logo da Equipe
+
+![logo](./Imagem/chorro.png)
