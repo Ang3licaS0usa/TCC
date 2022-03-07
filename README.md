@@ -1,4 +1,4 @@
-# COLLIER
+# Coleira Inteligente
 ---
 ## 1. Descrição do projeto
 
