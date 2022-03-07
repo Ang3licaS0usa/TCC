@@ -1,4 +1,4 @@
-# Coleira Inteligente
+# Guideye
 ---
 ## 1. Descrição do projeto
 
